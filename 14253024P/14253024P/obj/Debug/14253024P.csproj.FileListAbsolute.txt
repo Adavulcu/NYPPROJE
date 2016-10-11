@@ -1,0 +1,51 @@
+c:\users\adavu\onedrive\belgeler\visual studio 2015\Projects\14253024P\14253024P\bin\Debug\14253024P.exe.config
+c:\users\adavu\onedrive\belgeler\visual studio 2015\Projects\14253024P\14253024P\bin\Debug\14253024P.exe
+c:\users\adavu\onedrive\belgeler\visual studio 2015\Projects\14253024P\14253024P\bin\Debug\14253024P.pdb
+c:\users\adavu\onedrive\belgeler\visual studio 2015\Projects\14253024P\14253024P\obj\Debug\14253024P.csprojResolveAssemblyReference.cache
+c:\users\adavu\onedrive\belgeler\visual studio 2015\Projects\14253024P\14253024P\obj\Debug\_14253024P.Form1.resources
+c:\users\adavu\onedrive\belgeler\visual studio 2015\Projects\14253024P\14253024P\obj\Debug\_14253024P.Properties.Resources.resources
+c:\users\adavu\onedrive\belgeler\visual studio 2015\Projects\14253024P\14253024P\obj\Debug\14253024P.csproj.GenerateResource.Cache
+c:\users\adavu\onedrive\belgeler\visual studio 2015\Projects\14253024P\14253024P\obj\Debug\14253024P.exe
+c:\users\adavu\onedrive\belgeler\visual studio 2015\Projects\14253024P\14253024P\obj\Debug\14253024P.pdb
+G:\14253024P\14253024P\bin\Debug\14253024P.exe.config
+G:\14253024P\14253024P\obj\Debug\14253024P.exe
+G:\14253024P\14253024P\obj\Debug\14253024P.pdb
+G:\14253024P\14253024P\bin\Debug\14253024P.exe
+G:\14253024P\14253024P\bin\Debug\14253024P.pdb
+G:\14253024P\14253024P\obj\Debug\14253024P.csprojResolveAssemblyReference.cache
+G:\14253024P\14253024P\obj\Debug\_14253024P.Form1.resources
+G:\14253024P\14253024P\obj\Debug\_14253024P.Properties.Resources.resources
+G:\14253024P\14253024P\obj\Debug\14253024P.csproj.GenerateResource.Cache
+F:\14253024P\14253024P\bin\Debug\14253024P.exe.config
+F:\14253024P\14253024P\obj\Debug\14253024P.exe
+F:\14253024P\14253024P\obj\Debug\14253024P.pdb
+F:\yedek proje\14253024P\14253024P\bin\Debug\14253024P.exe.config
+F:\yedek proje\14253024P\14253024P\obj\Debug\14253024P.exe
+F:\yedek proje\14253024P\14253024P\obj\Debug\14253024P.pdb
+F:\yedek proje\14253024P\14253024P\bin\Debug\14253024P.exe
+F:\yedek proje\14253024P\14253024P\bin\Debug\14253024P.pdb
+F:\yedek proje\14253024P\14253024P\obj\Debug\14253024P.csprojResolveAssemblyReference.cache
+F:\yedek proje\14253024P\14253024P\obj\Debug\_14253024P.Form1.resources
+F:\yedek proje\14253024P\14253024P\obj\Debug\_14253024P.Properties.Resources.resources
+F:\yedek proje\14253024P\14253024P\obj\Debug\14253024P.csproj.GenerateResource.Cache
+G:\yedek proje\14253024P\14253024P\bin\Debug\14253024P.exe.config
+G:\yedek proje\14253024P\14253024P\obj\Debug\14253024P.exe
+G:\yedek proje\14253024P\14253024P\obj\Debug\14253024P.pdb
+G:\14253024P\14253024P\14253024P\bin\Debug\14253024P.exe.config
+G:\14253024P\14253024P\14253024P\obj\Debug\14253024P.exe
+G:\14253024P\14253024P\14253024P\obj\Debug\14253024P.pdb
+G:\14253024P\14253024P\14253024P\bin\Debug\14253024P.exe
+G:\14253024P\14253024P\14253024P\bin\Debug\14253024P.pdb
+G:\14253024P\14253024P\14253024P\obj\Debug\14253024P.csprojResolveAssemblyReference.cache
+G:\14253024P\14253024P\14253024P\obj\Debug\_14253024P.Form1.resources
+G:\14253024P\14253024P\14253024P\obj\Debug\_14253024P.Properties.Resources.resources
+G:\14253024P\14253024P\14253024P\obj\Debug\14253024P.csproj.GenerateResource.Cache
+C:\Users\Apo\Desktop\Projects\14253024P\14253024P\14253024P\bin\Debug\14253024P.exe.config
+C:\Users\Apo\Desktop\Projects\14253024P\14253024P\14253024P\obj\Debug\14253024P.exe
+C:\Users\Apo\Desktop\Projects\14253024P\14253024P\14253024P\obj\Debug\14253024P.pdb
+C:\Users\Apo\Desktop\Projects\14253024P\14253024P\14253024P\bin\Debug\14253024P.exe
+C:\Users\Apo\Desktop\Projects\14253024P\14253024P\14253024P\bin\Debug\14253024P.pdb
+C:\Users\Apo\Desktop\Projects\14253024P\14253024P\14253024P\obj\Debug\14253024P.csprojResolveAssemblyReference.cache
+C:\Users\Apo\Desktop\Projects\14253024P\14253024P\14253024P\obj\Debug\_14253024P.Form1.resources
+C:\Users\Apo\Desktop\Projects\14253024P\14253024P\14253024P\obj\Debug\_14253024P.Properties.Resources.resources
+C:\Users\Apo\Desktop\Projects\14253024P\14253024P\14253024P\obj\Debug\14253024P.csproj.GenerateResource.Cache
